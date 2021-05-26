@@ -13,3 +13,4 @@ MQTT_HOST = "ec2-3-83-89-138.compute-1.amazonaws.com"
 OTA_Files = ["Configuracion.py"] # Aquí se definen los archivos que formarán parte de la actualizacion OTA (Over The Air)
 
 # Esta es solo una linea para probar el OTA
+# Esta es solo otra linea para probar el OTA
